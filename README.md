@@ -37,8 +37,6 @@ npx react-native run-android
 2. **Project Structure:**
 The project is organized as follows:
 
-bash
-Copy code
 root
 │
 ├── app.tsx                # Root of the application
